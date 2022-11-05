@@ -1,0 +1,12 @@
+.story {
+    margin: 8px;
+}
+
+.story-icon, .story-username {
+    cursor: pointer;
+}
+
+.story-username {
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+
+
+.icon-default {
+    height: 63px;
+    width: 63px;
+    border-radius: 50%;
+}
+
+.icon-small {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.icon-tiny {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.no-border {
+    display: flex;
+    align-items: center;
+}
